@@ -86,3 +86,13 @@ In the real world, theoretical considerations like Turing completeness, big-O st
 It's just about getting things done quickly: `hello world!`
 
 Since you're obsessed with Turing: you can get Turing completeness through use of legacy script.
+
+**Q:** I think I've seen this lame joke before... only better done and more funny.
+
+**A:** Might well be. I assume somebody must have had the idea to write a language that does "hello world!" and "hello world!" only some time around the 1960's. 
+
+I could have Googled if something like this existed, laughed and not-write this.
+Turns out I found it more funny to hack it down in a couple of minutes while giggling like a lunatic.
+Hey, at least I didn't plagiarize it :-)
+
+It was worth _my_ time - sorry for yours.
