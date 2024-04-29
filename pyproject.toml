@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hpl"
 version = "0.1.0"
-description = "The Hello World Programming Language"
+description = "The Hello World! Programming Language"
 authors = ["Friedrich C. Kischkel <friedrich.kischkel@gmail.com>"]
 readme = "README.md"
 

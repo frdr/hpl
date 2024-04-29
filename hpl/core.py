@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # vim: fileencoding=utf-8
 """
-The Hello World Programming Language Core Module
+The Hello World! Programming Language Core Module
 """
 __author__ = 'Friedrich C. Kischkel <friedrich.kischkel@gmail.com>'
 __copyright__ = 'Copyright (C) 2023 Friedrich C. Kischkel. All rights reserved.'
