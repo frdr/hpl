@@ -16,10 +16,9 @@ _keywords = {
 def hpl_eval(arg):
     """Evaluate arg - this is where the magic happens!"""
     if not arg:
-        print("hello world!")
-    else:
-        # Run "legacy" script
-        eval(arg)
+        return "hello world!"
+    # Run "legacy" script
+    return eval(arg)
 
 
 def parse(arg):
