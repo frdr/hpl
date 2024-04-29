@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hpl"
+version = "0.1.0"
+description = "The Hello World Programming Language"
+authors = ["Friedrich C. Kischkel <friedrich.kischkel@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
