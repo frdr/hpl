@@ -7,7 +7,7 @@ __copyright__ = 'Copyright (C) 2023 Friedrich C. Kischkel. All rights reserved.'
 __license__ = 'Public domain'
 
 import traceback
-import core
+from . import core
 
 
 def prompt():
